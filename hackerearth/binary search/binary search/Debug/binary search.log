@@ -1,0 +1,14 @@
+﻿Build started 17-07-2018 14:42:34.
+     1>Project "C:\Users\NARENDRA\OneDrive\coding\hackerearth\binary search\binary search\binary search.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt bishu.cpp
+         bishu.cpp
+     1>c:\users\narendra\onedrive\coding\hackerearth\binary search\binary search\bishu.cpp(7): warning C4101: 'k' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\NARENDRA\OneDrive\coding\hackerearth\binary search\Debug\binary search.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\NARENDRA\OneDrive\coding\hackerearth\binary search\Debug\binary search.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\NARENDRA\OneDrive\coding\hackerearth\binary search\Debug\binary search.lib" /MACHINE:X86 Debug\bishu.obj
+         binary search.vcxproj -> C:\Users\NARENDRA\OneDrive\coding\hackerearth\binary search\Debug\binary search.exe
+     1>Done Building Project "C:\Users\NARENDRA\OneDrive\coding\hackerearth\binary search\binary search\binary search.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.21
